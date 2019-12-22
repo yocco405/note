@@ -41,7 +41,7 @@ main{
 /* ヘッダー
 ------------------------------- */
 header {
-  background: #c8e7e0;
+  background: #7ec2c2;
   padding: 26px 0 20px 8px;
 }
 div.head {
@@ -127,7 +127,7 @@ section.author {
 /* フッター
 ------------------------------- */
 footer {
-  background: #f7cdc4;
+  background: #e67a7a;
   text-align: center;
   padding: 26px 0;
 }
