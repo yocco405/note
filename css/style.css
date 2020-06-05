@@ -108,13 +108,8 @@ div.post {
 }
 .post_meta {
   margin-bottom: 20px;
-  padding-left: 15px;
   color: #666666;
   font-size: 0.875rem;
-  background-image: url(../img/pencil.gif);
-  background-repeat: no-repeat;
-  background-position: 0% 3px;
-  background-size: 10px;
 }
 .post_date {
   margin-bottom: 35px;
