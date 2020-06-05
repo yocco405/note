@@ -147,7 +147,7 @@ section.author {
 .prev {
   font-size: 0.8rem;
   line-height: 1.5;
-  padding-left: 1rem;
+  padding-left: 30px;
   width: 40%;
   text-align: left;
   background-image: url(../img/new.gif);
@@ -158,7 +158,7 @@ section.author {
 .next {
   font-size: 0.8rem;
   line-height: 1.5;
-  padding-right: 1rem;
+  padding-right: 30px;
   width: 40%;
   text-align: right;
   background-image: url(../img/prev.gif);
