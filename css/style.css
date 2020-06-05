@@ -135,7 +135,7 @@ section.author {
 .item_t {
   margin: 10px;
   font-size: 0.8rem;
-  line-height: 150%;
+  line-height: 1.5;
 }
 
 /* flex_nav */
@@ -146,14 +146,14 @@ section.author {
 }
 .prev {
   font-size: 0.8rem;
-  line-height: 150%;
+  line-height: 1.5;
   padding-left: 1rem;
   width: 40%;
   text-align: left;
 }
 .next {
   font-size: 0.8rem;
-  line-height: 150%;
+  line-height: 1.5;
   padding-right: 1rem;
   width: 40%;
   text-align: right;
