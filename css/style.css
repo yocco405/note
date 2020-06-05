@@ -133,8 +133,13 @@ section.author {
 .flex {
   display: flex;
 }
-.item {
+.item_i {
   margin: 10px;
+}
+.item_t {
+  margin: 10px;
+  font-size: 0.8rem;
+  line-height: 150%;
 }
 
 /* flex_nav */
@@ -147,14 +152,14 @@ section.author {
   line-height: 150%;
   padding-left: 1rem;
   width: 40%;
-  align: left;
+  text-align: left;
 }
 .next {
   font-size: 0.8rem;
   line-height: 150%;
   padding-left: 1rem;
   width: 40%;
-  align: right;
+  text-align: right;
 }
 
 /* フッター
