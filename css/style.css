@@ -150,6 +150,10 @@ section.author {
   padding-left: 1rem;
   width: 40%;
   text-align: left;
+  background-image: url(../img/new.gif);
+  background-repeat: no-repeat;
+  background-position: 0% 3px;
+  background-size: 30px;
 }
 .next {
   font-size: 0.8rem;
@@ -157,6 +161,10 @@ section.author {
   padding-right: 1rem;
   width: 40%;
   text-align: right;
+  background-image: url(../img/prev.gif);
+  background-repeat: no-repeat;
+  background-position: 100% 3px;
+  background-size: 30px;
 }
 
 /* フッター
