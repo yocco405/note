@@ -137,6 +137,26 @@ section.author {
   margin: 10px;
 }
 
+/* flex_nav */
+.flex_nav {
+  display: flex;
+  justify-content: space-between;
+}
+.prev {
+  font-size: 0.8rem;
+  line-height: 150%;
+  padding-left: 1rem;
+  width: 40%;
+  align: left;
+}
+.next {
+  font-size: 0.8rem;
+  line-height: 150%;
+  padding-left: 1rem;
+  width: 40%;
+  align: right;
+}
+
 /* フッター
 ------------------------------- */
 footer {
