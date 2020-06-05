@@ -227,6 +227,10 @@ hr {
   padding-top: 20px;
 }
 
+.omake h2 {
+  text-align: center;
+}
+
 .h3, h3 {
   font-size: 1.1rem;
   font-weight: bold;
