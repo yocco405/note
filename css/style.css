@@ -113,9 +113,14 @@ div.post {
 }
 .post_date {
   margin-bottom: 35px;
+  padding-left: 15px;
   color: #666666;
   font-size: 0.875rem;
   text-align: right;
+  background-image: url(../img/pencil.gif);
+  background-repeat: no-repeat;
+  background-position: 0% 3px;
+  background-size: 10px;
 }
 
 
