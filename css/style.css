@@ -103,6 +103,13 @@ div.post {
   color: #3977ac;
 }
 
+.arc a {
+  font-size: 1.375rem;
+  font-weight: 600;
+  color: #3977ac;
+  margin-left: 8px;
+}
+
 .post_desc {
   margin-bottom: 2px;
 }
