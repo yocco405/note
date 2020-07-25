@@ -108,7 +108,8 @@ h2.arc a {
   font-weight: 600;
   color: #3977ac;
   margin-left: 8px;
-  padding: 5px 0px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 .post_desc {
