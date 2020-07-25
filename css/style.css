@@ -42,7 +42,7 @@ main{
 ------------------------------- */
 header {
   background: #c8e7e0;
-  padding: 26px 0 20px 8px;
+  padding: 28px 0 20px 8px;
   margin: 0;
 }
 div.head {
@@ -172,7 +172,7 @@ section.author {
 footer {
   background: #c8e7e0;
   text-align: center;
-  padding: 16px 0;
+  padding: 13px 0;
   margin: 0;
 }
 div.footer {
