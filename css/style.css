@@ -165,13 +165,13 @@ section.author {
 .prev_c {
   font-size: 0.8rem;
   line-height: 1.5;
-  padding-left: 30px;
+  padding-left: 20px;
   width: 45%;
   text-align: left;
   background-image: url(../img/camera.gif);
   background-repeat: no-repeat;
   background-position: 0% 3px;
-  background-size: 12px;
+  background-size: 15px;
 }
 .next {
   font-size: 0.8rem;
