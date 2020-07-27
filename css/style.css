@@ -156,7 +156,7 @@ section.author {
   font-size: 0.8rem;
   line-height: 1.5;
   padding-left: 30px;
-  width: 45%;
+  width: 40%;
   text-align: left;
   background-image: url(../img/new.gif);
   background-repeat: no-repeat;
@@ -167,7 +167,7 @@ section.author {
   font-size: 0.8rem;
   line-height: 1.5;
   padding: 3px 10px 10px 22px;
-  width: 45%;
+  width: 40%;
   text-align: left;
   background-image: url(../img/favicon.png);
   background-repeat: no-repeat;
@@ -178,7 +178,7 @@ section.author {
   font-size: 0.8rem;
   line-height: 1.5;
   padding-right: 30px;
-  width: 45%;
+  width: 40%;
   text-align: right;
   background-image: url(../img/prev.gif);
   background-repeat: no-repeat;
