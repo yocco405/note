@@ -162,6 +162,17 @@ section.author {
   background-position: 0% 3px;
   background-size: 30px;
 }
+.prev_c {
+  font-size: 0.8rem;
+  line-height: 1.5;
+  padding-left: 30px;
+  width: 45%;
+  text-align: left;
+  background-image: url(../img/camera.gif);
+  background-repeat: no-repeat;
+  background-position: 0% 3px;
+  background-size: 30px;
+}
 .next {
   font-size: 0.8rem;
   line-height: 1.5;
