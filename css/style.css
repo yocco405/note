@@ -12,12 +12,22 @@ body{
   background: #faf8f6;
   margin: 0;
 }
+
 a {
   color: #3977ac;
 }
+
 img {
   max-width: 100%;
   border-style: none;
+}
+
+figure {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0.6em;
+    margin-inline-end: 0.6em;
 }
 
 h1,h2,h3,h4,h5,h6 {
