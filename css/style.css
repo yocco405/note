@@ -22,18 +22,6 @@ img {
   border-style: none;
 }
 
-figure {
-  display: block;
-  margin-block-start: 1em;
-  margin-block-end: 1em;
-  margin-inline-start: 0.3em;
-  margin-inline-end: 0.6em;
-}
-figcaption {
-  font-size: 0.8em;
-  padding-left: 0.4em;
-}
-
 h1,h2,h3,h4,h5,h6 {
   margin: auto;
   font-weight: normal;
@@ -254,6 +242,18 @@ hr {
 
 }
 
+figure {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0.3em;
+  margin-inline-end: 0.6em;
+}
+figcaption {
+  font-size: 0.8em;
+  padding-left: 0.4em;
+}
+
 .h1, h1 {
   padding-top: 10px;
 }
@@ -266,6 +266,7 @@ hr {
 
 h2.center {
   text-align: center;
+  margin-top: 5px;
 }
 
 .h3, h3 {
