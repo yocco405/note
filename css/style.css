@@ -254,6 +254,14 @@ figcaption {
   padding-left: 0.4em;
 }
 
+p {
+    display: block;
+    margin-block-start: 0.8em;
+    margin-block-end: 0.8em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
 .h1, h1 {
   padding-top: 10px;
 }
