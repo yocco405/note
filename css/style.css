@@ -262,11 +262,6 @@ p {
     margin-inline-end: 0px;
 }
 
-.h1, h1 {
-  font-size: 1.375rem;
-  padding-top: 10px;
-}
-
 .h2, h2 {
   font-size: 1.2rem;
   font-weight: bold;
