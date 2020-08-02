@@ -261,13 +261,12 @@ figcaption {
 .h2, h2 {
   font-size: 1.2rem;
   font-weight: bold;
-  color: #563b22;
-  padding-top: 10px;
+  padding-top: 15px;
 }
 
 h2.center {
   text-align: center;
-  margin-top: 5px;
+  margin-top: 15px;
 }
 
 .h3, h3 {
