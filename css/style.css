@@ -263,12 +263,12 @@ p {
 }
 
 .h1, h1 {
-  font-size: 1.8rem;
+  font-size: 1.375rem;
   padding-top: 10px;
 }
 
 .h2, h2 {
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   font-weight: bold;
   padding-top: 15px;
 }
@@ -279,7 +279,7 @@ h2.center {
 }
 
 .h3, h3 {
-  font-size: 1.2rem;
+  font-size: 1.06rem;
   font-weight: bold;
   padding-top: 10px;
 }
