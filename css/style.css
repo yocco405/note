@@ -256,8 +256,8 @@ figcaption {
 
 p {
     display: block;
-    margin-block-start: 0.8em;
-    margin-block-end: 0.8em;
+    margin-block-start: 0.6em;
+    margin-block-end: 0.6em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
 }
