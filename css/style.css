@@ -128,6 +128,18 @@ div.post {
   text-align: right;
 }
 
+/* days */
+.days_post_title {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: 10px;
+  color: #505050;
+}
+
+.days_post_desc {
+  font-size: 0.9rem;
+  margin-bottom: 2px;
+}
 
 /* 管理人 部分 */
 section.author {
