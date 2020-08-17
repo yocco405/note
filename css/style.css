@@ -133,6 +133,7 @@ article.days_post_info {
   position: relative;
   padding-top: 4px;
   margin-bottom: 4px;
+  font-size: 0.9rem;
 }
 
 .days_post_title {
@@ -143,10 +144,6 @@ article.days_post_info {
   color: #505050;
 }
 
-.days_post_info p {
-  font-size: 0.9rem;
-  margin-bottom: 2px;
-}
 
 /* 管理人 部分 */
 section.author {
