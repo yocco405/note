@@ -143,7 +143,7 @@ article.days_post_info {
   color: #505050;
 }
 
-p.days_post_desc {
+.days_post_info p {
   font-size: 0.9rem;
   margin-bottom: 2px;
 }
