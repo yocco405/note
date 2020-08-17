@@ -131,8 +131,8 @@ div.post {
 /* days */
 article.days_post_info {
   position: relative;
-  padding-top: 2rem;
-  margin-bottom: 2rem;
+  padding-top: 4px;
+  margin-bottom: 4px;
 }
 
 .days_post_title {
