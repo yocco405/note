@@ -129,6 +129,12 @@ div.post {
 }
 
 /* days */
+article.days_post_info {
+  position: relative;
+  padding-top: 2rem;
+  margin-bottom: 2rem;
+}
+
 .days_post_title {
   font-size: 1rem;
   font-weight: 600;
