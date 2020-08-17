@@ -138,7 +138,8 @@ article.days_post_info {
 .days_post_title {
   font-size: 1rem;
   font-weight: 600;
-  margin-top: 10px;
+  margin: 0px;
+  padding: 0px;
   color: #505050;
 }
 
