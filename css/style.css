@@ -275,7 +275,7 @@ hr {
 figure {
   display: block;
   margin: 0 auto;
-  width: 650px;
+  width: 90%;
 }
 figcaption {
   font-size: 0.8em;
