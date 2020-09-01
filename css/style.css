@@ -271,11 +271,8 @@ hr {
 
 figure {
   display: block;
-  
-  margin-block-start: 1em;
-  margin-block-end: 1em;
-  margin-inline-start: 0.3em;
-  margin-inline-end: 0.6em;
+  margin: 0 auto;
+  width: 650px;
 }
 figcaption {
   font-size: 0.8em;
