@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <title>「THEATRE for ALL LAB大報告会」でお話ししたウェブサイトやサービスのアクセシビリティについての記事が公開されました！ | peanuts.press</title>
+    <meta name="description" content="2021年3月13日（土）に開催された「THEATRE for ALL LAB大報告会」。THEATRE for ALLの篠田さん、サニーバンク伊敷アドバイザー、私とでお話しさせていただいたことが記事になりました。">
+    <link rel="icon" type="img/png" href="../img/favicon.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@yocco405">
+    <meta property="og:url" content="https://peanuts.press/2021/20210625.html">
+    <meta property="og:title" content="「THEATRE for ALL LAB大報告会」でお話ししたウェブサイトやサービスのアクセシビリティについての記事が公開されました！">
+    <meta property="og:description" content="2021年3月13日（土）に開催された「THEATRE for ALL LAB大報告会」。THEATRE for ALLの篠田さん、サニーバンク伊敷アドバイザー、私とでお話しさせていただいたことが記事になりました。">
+    <meta property="og:image" content="https://peanuts.press/img/tc_summary.png">
+
+<!-- CSS -->
+    <link href="../css/style.css" rel="stylesheet">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-168714730-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-168714730-1');
+    </script>
+
+  </head>
+
+  <body>
+    <header>
+      <div class="head"><a href="../" class="site_title">peanuts.press</a></div>
+    </header>
+
+    <main class="main wrapper">
+
+    <div class="post">
+      <h1 class="post_title">「THEATRE for ALL LAB大報告会」でお話ししたウェブサイトやサービスのアクセシビリティについての記事が公開されました！</h1>
+      <p class="post_date"><img src="../img/pencil.gif" alt="" /> 2021年6月25日｜ memo accessibility</p>
+
+
+            <table>
+                <caption>鈴木さんのプロフィール</caption>
+                <tbody>
+                    <tr>
+                        <th width="200"><img src="https://sunnybank.jp/cms/files/page/master/139/suzuki_1522264e.jpg" alt="鈴木さんのイラストです。"><br><strong>鈴木さん</strong></th>
+                        <td>先天性の視覚障害があり、弱視<br>
+                            机の前にじっとしている事は苦手で、趣味は海外旅行</td>
+                    </tr>
+                </tbody>
+            </table>
+
+      <h2>記事へのリンク</h2>
+      
+        <p>
+          <a href="https://theatreforall.net/feature/feature-1976/">No.03｜あらゆる当事者の声を聞き、皆で育てる：誰もが使いやすいウェブサイトをつくるために | 特集 | THEATRE for ALL</a>
+        </p>
+   
+      </div><!-- POST -->
+
+    <section class="author wrapper">
+      <h2>auther</h2>
+      <div class="flex">
+        <div class="item_i">
+         <figure>
+           <img width="60" alt="プロフィールアイコン（クレヨンで描かれた似顔絵）" src="../img/yocco405_120.png">
+           <figcaption>yocco*</figcaption>
+         </figure>
+        </div>
+        <div class="item_t">
+         <p>ウェブアクセシビリティに関するお仕事をしています。写真を撮ったり文房具を集めたりするのが好きです。</p>
+         <p>Twitter：<a href="https://twitter.com/yocco405">@yocco405</a></p>
+        </div>
+      </div>
+    </section>
+
+    </main>
+    
+    <nav class=" wrapper">
+    <div class="flex_nav">
+      <div class="prev">
+      <a href="../2020/20200901.html">ひとつ前の記事<br>
+        サニーバンクのワーカーさんへのおてがみ
+      </a>
+      </div>
+      <div class="next_c">
+      <a href="../">peanuts.press<br>
+       
+      </a>
+      </div>
+    </div>
+    </nav>
+      
+    <footer>
+      <p><small><a href="../">peanuts.press</a>  by yocco*</small></p>
+    </footer>
+
+  </body>
+</html>
