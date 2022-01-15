@@ -308,7 +308,6 @@ h2.center {
 }
 
 ol, ul {
-  display: block;
   margin-top: 0;
   margin-bottom: 10px;
 }
