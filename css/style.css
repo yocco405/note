@@ -127,6 +127,11 @@ div.post {
   font-size: 0.875rem;
   text-align: right;
 }
+.post_chu {
+  margin-bottom: 35px;
+  color: #666666;
+  font-size: 0.875rem;
+}
 
 /* days */
 article.days_post_info {
