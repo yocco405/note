@@ -44,7 +44,7 @@ main{
 /* ヘッダー
 ------------------------------- */
 header {
-  background: #c8e7e0;
+  background: #206681;
   padding: 28px 0 24px 8px;
   margin: 0;
 }
@@ -226,7 +226,7 @@ section.author {
 /* フッター
 ------------------------------- */
 footer {
-  background: #c8e7e0;
+  background: #206681;
   text-align: center;
   padding: 13px 0;
   margin: 0;
@@ -236,12 +236,12 @@ div.footer {
   margin: 0 auto;
 }
 footer p {
-  color: #505050;
+  color: #ffffff;
   font-size: 0.875rem;
 }
 
 footer a {
-  color: #505050;
+  color: #ffffff;
 }
 
 .nav_menu {
@@ -253,7 +253,7 @@ footer a {
   margin: 0 15px 0 15px;
 }
 .nav_menu a {
-  color: #505050;
+  color: #ffffff;
   text-decoration: none;
 }
 .nav_menu a:hover {
@@ -273,7 +273,7 @@ hr {
   margin-top: 20px;
   margin-bottom: 20px;
   border: 0;
-  border-top: 1px solid #eee;
+  border-top: 1px solid #206681;
 
 }
 
