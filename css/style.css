@@ -98,6 +98,7 @@ div.post {
   font-weight: 600;
   margin-top: 10px;
   color: #505050;
+  word-break: auto-phrase;
 }
 
 .post_title a {
